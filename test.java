@@ -1,3 +1,3 @@
-int a=1
-int b=2
-int (c=b-a)
+int a=1;
+int b=2;
+int (c=b-a);
